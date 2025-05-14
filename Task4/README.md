@@ -1,0 +1,1 @@
+Use redis hash to store user settings

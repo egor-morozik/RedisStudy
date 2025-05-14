@@ -1,0 +1,1 @@
+Implemented PUB/SUB model for tracking receipts using Redis

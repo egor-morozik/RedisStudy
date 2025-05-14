@@ -1,0 +1,1 @@
+Use redis-channels for logging users actions
